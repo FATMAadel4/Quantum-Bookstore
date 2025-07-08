@@ -46,7 +46,8 @@ store.purchaseBook("978-0132350884", 1, new EmailInfo("customer@example.com"));
 ## Remove outdated books:
  store.removeOutdatedBooks(10);
 
-## Sample Console Output
+##
+Sample Console Output
 [Quantum Bookstore] Added: Clean Architecture
 [Quantum Bookstore] Added: Clean Code
 [Quantum Bookstore] Added: Upcoming Novel
@@ -60,3 +61,10 @@ store.purchaseBook("978-0132350884", 1, new EmailInfo("customer@example.com"));
 [Quantum Bookstore] Inventory count: 2
 
  
+---
+
+## Screenshot of Valid Checkout
+
+Here’s an example screenshot of the application running successfully with a valid checkout:
+
+![Valid Checkout](screenshots/valid_checkout.png)
