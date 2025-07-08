@@ -27,6 +27,13 @@ A simple Java console app that simulates an online bookstore with different book
   - Calculates and returns payment total.
 - Outdated books can be removed by specifying max age.
 
+---
+
+## Screenshot of Valid Checkout
+
+Here’s an example screenshot of the application running successfully with a valid checkout:
+
+![Valid Checkout](screenshots/valid_checkout.png)
 
 
 ## Example Usage
@@ -61,10 +68,3 @@ Sample Console Output
 [Quantum Bookstore] Inventory count: 2
 
  
----
-
-## Screenshot of Valid Checkout
-
-Here’s an example screenshot of the application running successfully with a valid checkout:
-
-![Valid Checkout](screenshots/valid_checkout.png)
